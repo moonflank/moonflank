@@ -71,14 +71,6 @@ Developed a Diabetes Mellitus Prediction System using Logistic Regression in a C
 </a>
 </p>
 
-
-
-## 📜 Certifications
-
-- Certified International Specialist in Data Engineering – *Data Academy*  
-- Certified Ethical Hacker – *EC-COUNCIL*  
-- Laboratory Technician Personnel Certification – *TUV Rheinland*
-
 ---
 
 ## 🌐 Languages

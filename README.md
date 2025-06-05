@@ -81,12 +81,6 @@ Developed a Diabetes Mellitus Prediction System using Logistic Regression in a C
 
 ---
 
-## 🏅 Awards & Activities
-
-- Bidikmisi Scholarship Awardee – 2016
-
----
-
 ## 🌐 Languages
 
 - Indonesian – Native  
